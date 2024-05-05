@@ -10,8 +10,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/eslint": "^0.3.10",
+    "@nuxt/image": "^1.7.0",
+    "@nuxt/ui": "^2.15.2",
     "nuxt": "^3.11.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "nuxt-particles": "^0.3.0"
   }
 }

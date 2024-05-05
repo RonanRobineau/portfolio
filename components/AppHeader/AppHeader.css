@@ -1,0 +1,10 @@
+.header {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  z-index: 100
+}
+.header .title {
+  width: 10vw;
+  padding: 8px;
+}
